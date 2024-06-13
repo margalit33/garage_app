@@ -19,7 +19,7 @@ This Flask application manages a virtual garage with users and cars. It provides
 
 1. **Clone the repository:**
 
-   git clone <repository_url>
+   git clone <https://github.com/margalit33/garage_app>
    cd garage_management_app
 
 2. **Install dependencies:**
